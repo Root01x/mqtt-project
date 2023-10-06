@@ -2,6 +2,6 @@ import { defineConfig } from "vite";
 
 // vite.config.js
 export default defineConfig({
-    base: 'https://github.com/Root01x/mqtt-project/'
+    base: 'https://root01x.github.io/mqtt-project/'
     // config options
   })
